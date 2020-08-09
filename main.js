@@ -1,1 +1,1 @@
-jsonp({ "name": "test", "age": 1 });
+callback({ "name": "test", "age": 1 });
